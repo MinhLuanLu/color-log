@@ -11,7 +11,7 @@ const log = {
         console.debug(clc.magenta(`[DEBUG] ${value}`)); 
     },
     warn: (value) => {
-        console.warn(clc.yellow(`WARN ${value}`)); 
+        console.warn(clc.yellow(`[WARN] ${value}`)); 
     },
     error: (value) => {
         console.error(clc.red(`[ERROR] ${value}`));
