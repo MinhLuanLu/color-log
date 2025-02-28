@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A simple color logger library",
   "main": "color.js",
-  "type": "module",  // This line enables ES Modules support
+  "type": "module",  
   "dependencies": {
     "cli-color": "^2.0.4"
   },
