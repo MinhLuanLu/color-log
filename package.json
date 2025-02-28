@@ -2,7 +2,7 @@
   "name": "color-log",
   "version": "1.0.0",
   "description": "A simple color logger library",
-  "main": "color.js",
+  "main": "color-log.js",
   "type": "module",  
   "dependencies": {
     "cli-color": "^2.0.4"
