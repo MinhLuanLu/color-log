@@ -2,7 +2,7 @@ import clc from 'cli-color'
 
 const log = {
     log: (value) => {
-        console.info(clc.green(`[LOG] ${value}`));
+        console.log(clc.green(`[LOG] ${value}`));
     },
     info: (value) => {
         console.info(clc.cyan(`[INFO] ${value}`));
